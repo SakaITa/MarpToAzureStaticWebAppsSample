@@ -16,6 +16,14 @@ Azure Static Web Apps にデプロイしてみる
 
 ---
 
+# リソース
+このスライドも含めたサンプルは、
+下記の Github リポジトリに格納しています
+
+https://github.com/SakaITa/MarpToAzureStaticWebAppsSample
+
+---
+
 # 前提
 
 - npm コマンドが使用できること
