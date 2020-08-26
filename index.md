@@ -17,7 +17,7 @@ Azure Static Web Apps にデプロイしてみる
 ---
 
 # リソース
-このスライドも含めたサンプルは、
+このスライドも含めた作成物は、
 下記の Github リポジトリに格納しています
 
 https://github.com/SakaITa/MarpToAzureStaticWebAppsSample
@@ -63,7 +63,7 @@ https://github.com/SakaITa/MarpToAzureStaticWebAppsSample
 ```
 npm init
 ```
-- 続けて、依存ライブラリをインストールします
+- 続けて、ビルドに必要なライブラリをインストールします
 ```
 npm install @marp-team/marp-cli
 npm install cpx
