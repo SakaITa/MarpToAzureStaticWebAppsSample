@@ -90,7 +90,8 @@ node_modules/
 # Azure Static Web Apps を設定する
 - ビルド以外は、[ドキュメント通り](https://docs.microsoft.com/ja-jp/azure/static-web-apps/getting-started?tabs=vanilla-javascript)に作成していきます
 - ビルドは、下記のように設定してください
-  - 「Api location」に、「/」を入れます
+  - 「App location」に、「/」を入れます
+  - 「Api location」は、空にします
   - 「App artifact location」に、「dist」を入れます
 
 ---
