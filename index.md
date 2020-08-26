@@ -100,6 +100,8 @@ node_modules/
 - 作成した Web サイトにアクセスすると
   ビルドされたスライドが表示されます
 
+![bg right:33% 100%](images/image01.png)
+
 ---
 
 # 参考資料
