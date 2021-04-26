@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@marp-team/marp-cli": "^0.21.0",
+    "@marp-team/marp-cli": "^0.23.3",
     "cpx": "^1.5.0"
   },
   "devDependencies": {},
